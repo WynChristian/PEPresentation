@@ -1,5 +1,5 @@
 {
-  "name": "PE presentation",
+  "name": "pe-presentation",
   "version": "4.1.0",
   "description": "The HTML Presentation Framework",
   "homepage": "https://revealjs.com",
@@ -14,7 +14,6 @@
     "package": "gulp package"
   },
   "author": "Wyn Christian D. Rebanal",
-  },
   "engines": {
     "node": ">=10.0.0"
   },
